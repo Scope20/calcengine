@@ -1,0 +1,6 @@
+
+^squid:UnusedPrivateMethod\"4Remove this unused private "hasCarryOnSpace" method.(ù’œ©øÿÿÿÿ
+Bsquid:S1659"+Declare "totalCarryOns" on a separate line.(–Í…¼
+Ksquid:S1068"/Remove this unused "flightClass" private field.( úÖÎûÿÿÿÿ
+Gsquid:S1068"0Remove this unused "flightNumber" private field.(—¨¿
+usquid:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
